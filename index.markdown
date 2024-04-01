@@ -12,8 +12,13 @@ layout: home
 Almost every day, we can read about local crimes in the newspaper, and get so overwhelmed with the load of incidents, that it can be very hard to get the big picture of what is actually going on. On this page, we want to investigate and visualize the vehicle related criminality in San Francisco, by looking at the San Francisco Crime Dataset, that contains data from between 2003 and 2018.
 
 TIME_SERIES:
+![Time Series](assets/time%20series.png)
+
+
 
 MAP:
+<iframe src="/assets/map.html" width="100%" height="600px"></iframe>
+
 
 INTERACTIVE_MAP:
 example:
