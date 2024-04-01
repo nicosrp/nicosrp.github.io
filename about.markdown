@@ -8,10 +8,10 @@ This [story](https://nicosrp.github.io/) has been created during the Social Data
 
 The students, that worked on this project are:
 
-**Manos Loukaidis**
-Student Number: s240139
-Email:          s240139@dtu.dk
+**Manos Loukaidis**\
+Student Number: s240139\
+Email:          s240139@dtu.dk\
 
-**Nico Sherpa**
-Student Number: s240022
-Email:          nicsh@dtu.dk
+**Nico Sherpa**\
+Student Number: s240022\
+Email:          nicsh@dtu.dk\
