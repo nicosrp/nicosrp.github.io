@@ -17,7 +17,7 @@ Almost every day, we can read about local crimes in the newspaper, and get so ov
 
 There are several factors that might have a significant influence on the occurance of intoxicated driving incidents in San Francisco. On of them is time. Considering the whole dataset and plotting the aggregated time series, we can observe that incidents occur more often at weekends, a bit lesser in the summer months, and especially closer to the night.
 
-<iframe src="/assets/combined_crime_plots" width="100%" height="600px"></iframe>
+<iframe src="/assets/combined_crime_plots" width="100%" height="1000px"></iframe>
 
 <h2>There are intoxicated-driving-hotspots</h2>
 
