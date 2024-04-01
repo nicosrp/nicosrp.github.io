@@ -17,7 +17,7 @@ Almost every day, we can read about local crimes in the newspaper, and get so ov
 
 There are several factors that might have a significant influence on the occurance of intoxicated driving incidents in San Francisco. On of them is time. Considering the whole dataset and plotting the aggregated time series, we can observe that incidents occur more often at weekends, a bit lesser in the summer months, and especially closer to the night.
 
-<iframe src="/assets/combined_crime_plots" width="100%" height="920px"></iframe>
+<iframe src="/assets/combined_crime_plots_without_legend" width="100%" height="920px"></iframe>
 
 <h2>There are intoxicated-driving-hotspots</h2>
 
@@ -27,7 +27,7 @@ We can clearly observe from the map below that the majority of "Driving under th
 
 Check out the [Nightclubs in San Francisco on Google Maps](https://www.google.com/maps/search/nightclubs+in+San+Francisco/@37.7550043,-122.4926137,12.53z/data=!4m2!2m1!6e1?entry=ttu), its quite interesting to see the overlap with our map from above.
 
-<h2>What the hell is happening at 7pm?</h2>
+<h2>What the hell is happening in Richmond?</h2>
 
 To not overload the next graphic, we included incidents of driving under the influence only from 2015, and plotted them on the hour of the day. Interestingly, we can confirm the insights from the two previous plots, that during night the incident occurance increases, and that we can spot the focus area around the night clubs in San Francisco. 
 
