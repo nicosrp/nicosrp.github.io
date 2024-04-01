@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Assignment 2
+title: Under the Influence in San Fransisco
 description: >- # this means to ignore newlines until "baseurl:"
   This page was created during the course Social Data Analysis and Visualization at the
   Technical University of Denmark. It 

@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<h1>What is going on with intoxicated drivers in San Francisco?</h1>
+<h1>Shattered Nights: Unveiling San Francisco's Driving Under the Influence Epidemic</h1>
 
 Authors: Manos Loukaidis and Nico Sherpa
 
