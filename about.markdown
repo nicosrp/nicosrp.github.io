@@ -10,8 +10,8 @@ The students, that worked on this project are:
 
 **Manos Loukaidis**\
 Student Number: s240139\
-Email:          s240139@dtu.dk\
+Email:          s240139@student.dtu.dk
 
 **Nico Sherpa**\
 Student Number: s240022\
-Email:          nicsh@dtu.dk\
+Email:          nicsh@dtu.dk

@@ -14,7 +14,7 @@ Authors: Manos Loukaidis and Nico Sherpa
 Almost every day, we can read about local crimes in the newspaper, and get so overwhelmed with the load of incidents, that it can be very hard to get the big picture of what is actually going on. On this page, we want to investigate and visualize the vehicle related criminality in San Francisco, by looking at the San Francisco Crime Dataset, that contains data from between 2003 and 2018.
 
 TIME_SERIES:
-![Time Series](assets/time%20series%20new.png.png)
+![Time Series](assets/time%20series%20new.png)
 
 
 
