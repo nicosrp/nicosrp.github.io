@@ -22,4 +22,4 @@ MAP:
 
 INTERACTIVE_MAP:
 example:
-<iframe src="/assets/datavis_output/Heatmap_with_time.html" width="100%" height="600px"></iframe>
+<iframe src="/assets/Heatmap_with_time.html" width="100%" height="600px"></iframe>
