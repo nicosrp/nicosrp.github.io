@@ -31,8 +31,8 @@ Check out the [Nightclubs in San Francisco on Google Maps](https://www.google.co
 
 To not overload the next graphic, we included incidents of driving under the influence only from 2015, and plotted them on the hour of the day. Interestingly, we can confirm the insights from the two previous plots, that during night the incident occurance increases, and that we can spot the focus area around the night clubs in San Francisco.
 
+<iframe src="/assets/Heatmap_with_time.html" width="100%" height="600px"></iframe>
+
 When starting the animation, we can see a relatively spread out distribution of cases, while we can still recognize a higher density in the central area, eventually related to a higher population density and other factors like previously mentioned nightclubs, that are located there. At around 5 o'clock we can observe a steep decrease of the incidence occurence. This will be around the time where most of the people having been around in night establishments before are already at home and bars and nightclubs are closing their doors. The incidence prevalence increases again in the late afternoon and early evening, while reaching its peak between 11 p.m. and 4 a.m. (as we can see in the first plot from above). 
 
 However, what we couldn't see in the first plot is, that the relation between the amount of incidents in the main San Francisco area (around the upper right area of the map) and the Richmond area (around the upper left area of the map) show some unusual patterns. Pause the autoplay on the interactive map and look at the hours 13, 16, and 19. What do you observe? We can see not just a few, but no incidents at all in the Richmond area, while the overall trend in the main area is increasing. It might be interesting for law enforcers to investigate, why that is the case. Is it due to a lack in the area specific patrolling and controlling. Or do external factors like establishments have an influence here?
-
-<iframe src="/assets/Heatmap_with_time.html" width="100%" height="600px"></iframe>
