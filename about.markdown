@@ -18,7 +18,7 @@ Email:          nicsh@dtu.dk
 
 <h1>Contribution:</h1>
 
-Both group members worked on all tasks together and helped each other. I we should state focus areas of our contribution, this would be the most accurate:
+Both group members worked on all tasks together and helped each other on all tasks to an overall equal amount of effort.
 
 Responsibility of Manos:
 - Working on Plot 1 and 2
@@ -30,4 +30,4 @@ Responsibility of Nico:
 - Github pages setup and structuring
 - Gathering background data for all texts
 
-Those contributions rather not indicate a higher workload of one or another person in a specific area, but just states the person responsible for delegating tasks and getting things done.
+Those contributions rather not indicate a higher workload of one or another person in a specific area, but states the person responsible for delegating tasks and getting things done.
