@@ -9,9 +9,9 @@ layout: home
 
 Authors: Manos Loukaidis and Nico Sherpa
 
-![Golden Gate Bridge](assets/golden_gate.jpg)
-
 Almost every day, we can read about local crimes in the newspaper, and get so overwhelmed with the load of incidents, that it can be very hard to get the big picture of what is actually going on. On this page, we want to investigate and visualize incidents, where people were recorded driving under the influence (DUI) in San Francisco, by looking at the San Francisco Crime Dataset, that contains data from between January 2003 and May 2018, that has been narrowed down to the data until the end of 2017, to have consistent month-aggregated values.
+
+![Golden Gate Bridge](assets/golden_gate.jpg)
 
 The dataset contains data to crimes, like e.g. Robbery, Prostitution, Vandalism, or, as we have chosen for the following section, DUI. Besides interesting variables, such as the date and time of the crime or a more detailled crime description, we can also obtain the exact location, where the crime has been reported, giving us the chance to have interesting visualizations of the crime incidents.
 
