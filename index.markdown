@@ -13,15 +13,15 @@ Authors: Manos Loukaidis and Nico Sherpa
 
 Almost every day, we can read about local crimes in the newspaper, and get so overwhelmed with the load of incidents, that it can be very hard to get the big picture of what is actually going on. On this page, we want to investigate and visualize the vehicle related criminality in San Francisco, by looking at the San Francisco Crime Dataset, that contains data from between 2003 and 2018.
 
-<h2>Incidents are dependent on time</h2>
+<h2>Prevalence of incidence is dependent on the time</h2>
 
-There are several factors that might have a significant influence on the occurance of intoxicated driving incidents in San Francisco. On of them is time. Considering the whole dataset and plotting the aggregated time series, we can observe that incidents occur more often at weekends, a bit lesser in the summer months, and especially closer to the night.
+There are several factors that might have a significant influence on the occurance of intoxicated driving incidents in San Francisco. One of them is time. Considering the whole dataset and plotting the aggregated time series, we can observe that incidents occur more often around the night, at weekends, and a bit lesser in the summer months. When observing the plot with our cursor, we see that during between 10 and 11 o'clock, the total incidents are 27 over all the years, while opposed to it between 0 and 1 o'clock the total incident amount is 711, which is more than 26 times more often than during former mentioned time interval.
 
 <iframe src="/assets/combined_crime_plots_new" width="100%" height="920px"></iframe>
 
 <h2>There are intoxicated-driving-hotspots</h2>
 
-We can clearly observe from the map below that the majority of "Driving under the influence" incidents occur within the greater area of San Francisco where numerous nightclubs are situated. Additionally, the map highlights that many violations are concentrated along the highways, indicating a heightened likelihood of police presence and alcohol checkpoints targeting drivers departing from these nightclubs. This area likely serves as a hotspot for various illegal activities due to the significant presence of nightclubs.
+We can clearly observe from the map below that the majority of "Driving under the influence" incidents occur within the greater area of San Francisco where locations are situated, that have a potential influence on the incident rate, like numerous nightclubs. Additionally, the map highlights that many violations are concentrated along the highways, indicating a heightened likelihood of police presence and alcohol checkpoints targeting drivers departing from these nightclubs. This area likely serves as a hotspot for various illegal activities due to the significant presence of nightclubs.
 
 <iframe src="/assets/map.html" width="100%" height="600px"></iframe>
 
@@ -29,6 +29,10 @@ Check out the [Nightclubs in San Francisco on Google Maps](https://www.google.co
 
 <h2>What the hell is happening in Richmond?</h2>
 
-To not overload the next graphic, we included incidents of driving under the influence only from 2015, and plotted them on the hour of the day. Interestingly, we can confirm the insights from the two previous plots, that during night the incident occurance increases, and that we can spot the focus area around the night clubs in San Francisco. 
+To not overload the next graphic, we included incidents of driving under the influence only from 2015, and plotted them on the hour of the day. Interestingly, we can confirm the insights from the two previous plots, that during night the incident occurance increases, and that we can spot the focus area around the night clubs in San Francisco.
+
+When starting the animation, we can see a relatively spread out distribution of cases, while we can still recognize a higher density in the central area, eventually related to a higher population density and other factors like previously mentioned nightclubs, that are located there. At around 5 o'clock we can observe a steep decrease of the incidence occurence. This will be around the time where most of the people having been around in night establishments before are already at home and bars and nightclubs are closing their doors. The incidence prevalence increases again in the late afternoon and early evening, while reaching its peak between 11 p.m. and 4 a.m. (as we can see in the first plot from above). 
+
+However, what we couldn't see in the first plot is, that the relation between the amount of incidents in the main San Francisco area (around the upper right area of the map) and the Richmond area (around the upper left area of the map) show some unusual patterns. Pause the autoplay on the interactive map and look at the hours 13, 16, and 19. What do you observe? We can see not just a few, but no incidents at all in the Richmond area, while the overall trend in the main area is increasing. It might be interesting for law enforcers to investigate, why that is the case. Is it due to a lack in the area specific patrolling and controlling. Or do external factors like establishments have an influence here?
 
 <iframe src="/assets/Heatmap_with_time.html" width="100%" height="600px"></iframe>
