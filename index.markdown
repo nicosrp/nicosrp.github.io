@@ -23,7 +23,7 @@ Furthermore, San Francisco's Police Department received [a grant from the Califo
 
 <h2>Prevalence of incidence is dependent on the time</h2>
 
-There are several factors that might have a significant influence on the occurrence of intoxicated driving incidents in San Francisco. One of them is time. Considering the dataset until the end of 2017 (to give a consistent view on all the months) and plotting the aggregated time series, we can observe that incidents occur more often around the night, at weekends, and a bit lesser in the summer months. When observing the plot with our cursor, we see that during between 10 and 11 o'clock, the total incidents are 26 over all the years, while opposed to it between 0 and 1 o'clock the total incident amount is 705, which is more than 26 times more often than during former mentioned time interval.
+There are several factors that might have a significant influence on the occurrence of intoxicated driving incidents in San Francisco. One of them is time. Considering the dataset until the end of 2017 (to give a consistent view on all the months) and plotting the aggregated time series, we can observe that incidents occur more often around the night, at weekends, and a bit lesser in the summer months. When observing the plot with our cursor, we see that during between 10 and 11 o'clock, the total incidents are 26 over all the years, while opposed to it between 0 and 1 o'clock the total incident amount is 705, which is more than 27 times more often than during former mentioned time interval.
 
 <iframe src="/assets/combined_crime_plots_newnew" width="100%" height="920px"></iframe>
 
